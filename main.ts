@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 //? computer guess random number
 import inquirer from "inquirer";
 import chalk from "chalk";
