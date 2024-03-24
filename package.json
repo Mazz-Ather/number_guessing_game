@@ -1,6 +1,6 @@
 {
   "name": "mazz-number-guessing-game",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "description": "mazz-number-guessing-game",
   "main": "main.js",
   "type": "module",
